@@ -1,0 +1,28 @@
+{
+  "name": "type-optional",
+  "version": "1.0.0",
+  "description": "A very simple implementation of an optional type in typescript",
+  "main": "./dist/index.d.ts",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirMomster/type-optional.git"
+  },
+  "keywords": [
+    "typescript",
+    "optional",
+    "type"
+  ],
+  "author": "SirMomster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirMomster/type-optional/issues"
+  },
+  "homepage": "https://github.com/SirMomster/type-optional#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
